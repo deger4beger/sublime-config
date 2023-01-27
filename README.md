@@ -1,4 +1,4 @@
-## My config for Sublime text 4 b. 4126 
+### My config for Sublime text 4 b. 4126 (Windows)
 
 Sync this directories:
 
