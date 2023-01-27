@@ -1,0 +1,4 @@
+// Settings in here override those in "LSP/LSP.sublime-settings"
+{
+	// "only_show_lsp_completions": true
+}

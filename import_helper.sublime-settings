@@ -1,0 +1,10 @@
+{
+    "from_quote": "''",
+    "no_semicolon": true,
+    "insert_space_in_braces": true,
+    "node_bin": "node",
+    "import_path_mapping": "enabled",
+    "autocomplete_export_names": false, // for ctrl + space
+    "autocomplete_auto_import": false, // for ctrl + space
+    "remove_trailing_index": true,
+}

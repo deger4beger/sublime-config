@@ -1,0 +1,103 @@
+[
+	{ "keys": ["ctrl+b"], "command": "repl_open",
+                 "caption": "Python - RUN current file",
+                 "id": "repl_python_run",
+                 "mnemonic": "d",
+                 "args": {
+                    "type": "subprocess",
+                    "encoding": "utf8",
+                    "cmd": ["python", "-i", "-u", "$file_basename"],
+                    "cwd": "$file_path",
+                    "syntax": "Packages/Python/Python.tmLanguage",
+                    "external_id": "python",
+                    "extend_env": {"PYTHONIOENCODING": "utf-8"}
+                    }
+  }
+,
+//     {
+//         "keys": ["ctrl+shift+r"],
+//         "command": "reindent",
+//         "args": {
+//             "single_line": false
+//             }
+//         }
+// ,
+    // JSFMT
+
+    { "keys": ["ctrl+shift+r"], "command": "format_javascript" },
+
+    // Terminus
+
+    // Open cmd.exe Command Prompt when Alt+1 is pressed
+    {
+        // The key press to look out for
+        "keys": ["alt+1"],
+
+        // Tell terminus to open something
+        "command": "terminus_open",
+
+        // Tell terminus what to open
+        "args" : {
+            // Open Command Prompt
+            "cmd": "cmd.exe",
+
+            // Provide Command Prompt with Current Working Directory
+            "cwd": "${file_path:${folder}}",
+
+            // Tell terminus to put it in the panel at the bottom of the screen
+            "panel_name": "Terminus"
+        }
+    },
+
+    // Open git bash when Alt+2 is pressed
+    {
+        "keys": ["alt+2"],
+        "command": "terminus_open",
+         "args" : {
+            // Tell terminus to use Git Bash
+            // Replace the path below with your path to Git Bash
+            "cmd": ["C:\\Program Files\\Git\\bin\\bash.exe", "-i", "-l"],
+
+            "cwd": "${file_path:${folder}}",
+            "panel_name": "Terminus"
+         }
+    },
+
+    // LSP
+    {
+        "command": "lsp_document_symbols",
+        "keys": [
+            "ctrl+r"
+        ],
+        "context": [
+            {
+                "key": "lsp.session_with_capability",
+                "operator": "equal",
+                "operand": "documentSymbolProvider"
+            },
+            {
+                "key": "selector",
+                "operator": "equal"
+            }
+        ]
+    },
+    {
+        "command": "lsp_workspace_symbols",
+        "keys": [
+            "ctrl+shift+r"
+        ],
+        "context": [
+            {
+                "key": "lsp.session_with_capability",
+                "operator": "equal",
+                "operand": "documentSymbolProvider"
+            },
+            {
+                "key": "selector",
+                "operator": "equal"
+            }
+        ]
+    }
+
+
+]
