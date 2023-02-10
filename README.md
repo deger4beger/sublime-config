@@ -5,4 +5,4 @@ Sync this directories:
 ```sh
 C:\Users\{username}\AppData\Roaming\Sublime Text\Packages\User
 ```
-![winscreen](https://sun9-49.userapi.com/impg/5Ka_cfDYPoR6plbXYnor4ePFnkO-6ICX6u5P-A/Bzb_KuwqViY.jpg?size=1893x1029&quality=96&sign=697da4d525532555a001917dbd6288c7&type=album)
+![winscreen](https://sun9-67.userapi.com/impg/xZwyjpmuDtmwE0AawdeHnNx8DxjnbP_Fweg2DA/IL7RseJRraU.jpg?size=1894x1028&quality=96&sign=bc46a08fbb957854c84a4cec4dc0d4f6&type=album)
