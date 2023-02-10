@@ -3,5 +3,5 @@
 Sync this directories:
 
 ```sh
-C:\Users\{username}\AppData\Roaming\Sublime Text 3\Packages\User
+C:\Users\{username}\AppData\Roaming\Sublime Text\Packages\User
 ```
