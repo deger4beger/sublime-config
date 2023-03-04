@@ -1,13 +1,13 @@
 ### My config for Sublime text 4 b. 4126
 
-- #Windows 
+- Windows 
 Sync **master** branch with this directory:
 
 ```sh
 C:\Users\{username}\AppData\Roaming\Sublime Text\Packages\User
 ```
 
-- #Macos 
+- Macos 
 Sync **master-macos** branch with this directory:
 
 ```sh
