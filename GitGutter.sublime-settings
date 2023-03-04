@@ -1,0 +1,16 @@
+// GitGutter Settings - User
+{
+  "git_binary": "",
+  "compare_against": "HEAD",
+  "live_mode": true,
+  "focus_change_mode": true,
+  "non_blocking": true,
+  "debounce_delay": 1000,
+  "ignore_whitespace": "none",
+  "show_markers_on_untracked_file": false,
+  "patience": true,
+  "show_status": "default",
+  "show_in_minimap": true,
+  "next_prev_change_wrap": true,
+  "protected_regions": []
+}

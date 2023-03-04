@@ -1,0 +1,49 @@
+[
+	{
+    "keys": ["command+2"], "command": "terminus_open", "args": {
+      "cwd": "${file_path:${folder}}"
+    }
+  },
+
+    {
+        "keys": ["command+1"], "command": "toggle_terminus_panel"
+    },
+
+    { "keys": ["ctrl+/"], "command": "auto_complete" },
+
+// LSP
+{
+"command": "lsp_document_symbols",
+"keys": [
+"command+r"
+],
+"context": [
+{
+"key": "lsp.session_with_capability",
+"operator": "equal",
+"operand": "documentSymbolProvider"
+},
+{
+"key": "selector",
+"operator": "equal"
+}
+]
+},
+{
+"command": "lsp_workspace_symbols",
+"keys": [
+"command+shift+r"
+],
+"context": [
+{
+"key": "lsp.session_with_capability",
+"operator": "equal",
+"operand": "documentSymbolProvider"
+},
+{
+"key": "selector",
+"operator": "equal"
+}
+]
+}
+]
