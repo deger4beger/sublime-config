@@ -33,6 +33,7 @@
 		"LSP-prisma",
 		"LSP-rust-analyzer",
 		"LSP-typescript",
+		"LSP-vue",
 		"Package Control",
 		"PlainTasks",
 		"Prisma",
@@ -43,5 +44,6 @@
 		"Tailwind CSS Autocomplete",
 		"Terminus",
 		"Tomorrow Night Italics Color Scheme",
+		"Vue Syntax Highlight",
 	],
 }
