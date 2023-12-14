@@ -30,6 +30,7 @@
 		"LSP-eslint",
 		"LSP-graphql",
 		"LSP-html",
+		"LSP-json",
 		"LSP-prisma",
 		"LSP-rust-analyzer",
 		"LSP-typescript",

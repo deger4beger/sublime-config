@@ -1,6 +1,10 @@
 // Settings in here override those in "LSP-typescript/LSP-typescript.sublime-settings"
-
 {
+	"initializationOptions": {
+		"preferences": {
+			"importModuleSpecifierPreference": "non-relative",
+		}
+	}
 	// "settings": {
 	// // Javascript inlay hints options.
 	// 	"javascript.inlayHints.includeInlayEnumMemberValueHints": true,
