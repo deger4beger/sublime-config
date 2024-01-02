@@ -1,5 +1,7 @@
 ### My config for Sublime text 4 b. 4126
 
+- Install package control
+
 - (Windows):
 Sync **master** branch with this directory:
 
