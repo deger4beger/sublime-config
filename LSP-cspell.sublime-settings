@@ -1,0 +1,189 @@
+{
+	"settings":
+	{
+		"cSpell.allowCompoundWords": false,
+		"cSpell.allowedSchemas":
+		[
+			"file",
+			"buffer"
+		],
+		"cSpell.blockCheckingWhenLineLengthGreaterThan": 10000,
+		"cSpell.blockCheckingWhenTextChunkSizeGreaterThan": 500,
+		"cSpell.caseSensitive": false,
+		"cSpell.checkLimit": 500,
+		"cSpell.customDictionaries":
+		{
+		},
+		"cSpell.diagnosticLevel": "Information",
+		"cSpell.dictionaries":
+		[
+		],
+		"cSpell.dictionaryDefinitions":
+		[
+		],
+		"cSpell.enableFiletypes":
+		[
+		],
+		"cSpell.enabled": true,
+		"cSpell.enabledLanguageIds":
+		[
+			"asciidoc",
+			"bat",
+			"c",
+			"clojure",
+			"coffeescript",
+			"cpp",
+			"csharp",
+			"css",
+			"dart",
+			"diff",
+			"dockerfile",
+			"elixir",
+			"erlang",
+			"fsharp",
+			"git-commit",
+			"git-rebase",
+			"github-actions-workflow",
+			"go",
+			"graphql",
+			"groovy",
+			"handlebars",
+			"haskell",
+			"html",
+			"ini",
+			"jade",
+			"java",
+			"javascript",
+			"javascriptreact",
+			"json",
+			"jsonc",
+			"julia",
+			"jupyter",
+			"latex",
+			"less",
+			"lua",
+			"makefile",
+			"markdown",
+			"objective-c",
+			"perl",
+			"perl6",
+			"php",
+			"plaintext",
+			"powershell",
+			"properties",
+			"pug",
+			"python",
+			"r",
+			"razor",
+			"restructuredtext",
+			"ruby",
+			"rust",
+			"scala",
+			"scminput",
+			"scss",
+			"shaderlab",
+			"shellscript",
+			"sql",
+			"swift",
+			"text",
+			"typescript",
+			"typescriptreact",
+			"vb",
+			"vue",
+			"xml",
+			"xsl",
+			"yaml"
+		],
+		"cSpell.experimental.enableRegexpView": false,
+		"cSpell.files":
+		[
+		],
+		"cSpell.flagWords":
+		[
+		],
+		"cSpell.globRoot": "",
+		"cSpell.hideAddToDictionaryCodeActions": false,
+		"cSpell.ignorePaths":
+		[
+			"package-lock.json",
+			"node_modules",
+			"vscode-extension",
+			".git/objects",
+			".vscode",
+			".vscode-insiders"
+		],
+		"cSpell.ignoreRegExpList":
+		[
+		],
+		"cSpell.ignoreWords":
+		[
+		],
+		"cSpell.import":
+		[
+		],
+		"cSpell.includeRegExpList":
+		[
+		],
+		"cSpell.language": "en",
+		"cSpell.languageSettings":
+		[
+		],
+		"cSpell.logLevel": "Error",
+		"cSpell.maxDuplicateProblems": 5,
+		"cSpell.maxNumberOfProblems": 100,
+		"cSpell.minWordLength": 4,
+		"cSpell.noConfigSearch": false,
+		"cSpell.noSuggestDictionaries":
+		[
+		],
+		"cSpell.numSuggestions": 8,
+		"cSpell.overrides":
+		[
+		],
+		"cSpell.patterns":
+		[
+		],
+		"cSpell.spellCheckDelayMs": 50,
+		"cSpell.spellCheckOnlyWorkspaceFiles": false,
+		"cSpell.suggestWords":
+		[
+		],
+		"cSpell.suggestionNumChanges": 3,
+		"cSpell.suggestionsTimeout": 400,
+		"cSpell.useGitignore": true,
+		"cSpell.usePnP": false,
+		"cSpell.userWords":
+		[
+		],
+		"cSpell.words":
+		[
+			"datasource",
+			"typeorm",
+			"respositories",
+			"pricings",
+			"Hasura",
+			"fastify",
+			"exceljs",
+			"timestamptz",
+			"sonarjs",
+			"mgtco",
+			"ILIKE",
+			"antd",
+			"tanstack",
+			"avalara",
+			"Varchar",
+			"Bpchar",
+			"subсategory",
+			"Значение",
+			"Пользователь",
+			"bytea",
+			"multilang",
+			"openxmlformats",
+			"officedocument",
+			"wordprocessingml",
+			"spreadsheetml",
+			"keycloak",
+		],
+		"cSpell.workspaceRootPath": "",
+	},
+}

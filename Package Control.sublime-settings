@@ -26,6 +26,7 @@
 		"LSP",
 		"LSP-astro",
 		"LSP-copilot",
+		"LSP-cspell",
 		"LSP-css",
 		"LSP-eslint",
 		"LSP-graphql",
