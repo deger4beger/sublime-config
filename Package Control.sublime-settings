@@ -25,7 +25,6 @@
 		"JsPrettier",
 		"LSP",
 		"LSP-astro",
-		"LSP-copilot",
 		"LSP-cspell",
 		"LSP-css",
 		"LSP-eslint",
@@ -47,6 +46,6 @@
 		"Tailwind CSS Autocomplete",
 		"Terminus",
 		"Tomorrow Night Italics Color Scheme",
-		"Vue Syntax Highlight",
+		"Vue",
 	],
 }
